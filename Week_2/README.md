@@ -1,7 +1,7 @@
-Logistic Regression Blog:
--[Blog link](https://towardsdatascience.com/everything-you-need-to-know-about-linear-regression-b791e8f4bd7a)
+- Logistic Regression Blog:
+[Blog link](https://towardsdatascience.com/everything-you-need-to-know-about-linear-regression-b791e8f4bd7a)
 
-Important Point Regarding Gradient Descent:
+- Important Point Regarding Gradient Descent:
 ![image](https://user-images.githubusercontent.com/76818035/171456982-f6fc06d1-b970-42d9-8379-315058d27b35.png)
 
 ### What will happen in 1 step of Gradient Descent of one of the parameters of cost function is already at local minimum?
@@ -15,3 +15,6 @@ hence, the assignment would be like
 		Hence, no change...
 		
 		
+- We should remove correlated variables while training our model. These can cause our model to predict highly varied results and several issues.
+[READ MORE](https://stats.stackexchange.com/questions/4920/can-i-simply-remove-one-of-two-predictor-variables-that-are-highly-linearly-corr)
+
