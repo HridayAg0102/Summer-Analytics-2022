@@ -8,7 +8,10 @@ Important Point Regarding Gradient Descent:
 ### Answer:
 It will remain unchanged, since at local minima: Del (j) / Del (Theta 1) will be = 0;
 hence, the assignment would be like 
-		```Theta_1 := Theta_1 + Del (j) / Del (Theta 1)
+
+		
+		Theta_1 := Theta_1 + Del (j) / Del (Theta 1)
 		=> Theta_1 := Theta_1 + 0
-		Hence, no change...```
+		Hence, no change...
+		
 		
