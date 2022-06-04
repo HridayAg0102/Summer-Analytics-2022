@@ -1,6 +1,6 @@
-Logistic Regression Hypothesis function:
+### Logistic Regression Hypothesis function:
 
-$$ h_\theta (x) = \frac{1}{1+e^{-(\theta^Tx)}}$$
+$$\huge h_\theta (x) = \frac{1}{1+e^{-(\theta^Tx)}}$$
 
 As the prediction is a classification, the result can only be 0 or 1.
 
@@ -17,5 +17,9 @@ y = 0 :=> $\theta^Tx < 0$
 
 <br><br>
 
-### Cost in Logistic Regression
-$$Cost(h_\theta x, y) = -y*log(h_\theta (x)) - (1-y)*log(1 - h_\theta (x))$$
+### Cost in Logistic Regression and Gradient Descent
+![image](https://user-images.githubusercontent.com/76818035/172019061-f061a4c9-8d3b-4f14-8707-c52678063963.png)
+
+  NOTE: The equation for gradient descent in Logistic regression looks IDENTICAL to that of linear regression !!! But there is a difference:
+  
+The <a href = "#logistic-regression-hypothesis-function"> HYPOTHESIS </a> of Gradient Descent of Logistic Regression is different from that of Liear regression Hypothesis (i.e., $\large h_\theta (x) = \theta_1 * x + \theta_0$)
