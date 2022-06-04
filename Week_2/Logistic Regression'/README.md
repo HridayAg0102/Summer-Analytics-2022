@@ -18,8 +18,8 @@
 
 ### Logistic Regression Hypothesis function:
 
-$$\Huge h_\theta (x) = \frac{1}{1+e^{-(\theta^Tx)}}$$
-
+$$\Huge h_\theta (x) = \frac{1}{1+e^{-(\theta^Tx + \theta_0)}}$$
+$$\huge \text{here, } \theta_0 \text{ is always taken as 1}$$
 As the prediction is a classification, the result can only be 0 or 1.
 
 hence:
