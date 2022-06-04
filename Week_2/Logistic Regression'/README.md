@@ -1,6 +1,6 @@
 ### Logistic Regression Hypothesis function:
 
-$$\huge h_\theta (x) = \frac{1}{1+e^{-(\theta^Tx)}}$$
+$$\Huge h_\theta (x) = \frac{1}{1+e^{-(\theta^Tx)}}$$
 
 As the prediction is a classification, the result can only be 0 or 1.
 
@@ -22,4 +22,4 @@ y = 0 :=> $\theta^Tx < 0$
 
   NOTE: The equation for gradient descent in Logistic regression looks IDENTICAL to that of linear regression !!! But there is a difference:
   
-The <a href = "#logistic-regression-hypothesis-function"> HYPOTHESIS </a> of Gradient Descent of Logistic Regression is different from that of Liear regression Hypothesis (i.e., $\large h_\theta (x) = \theta_1 * x + \theta_0$)
+The <a href = "#logistic-regression-hypothesis-function"> HYPOTHESIS </a> of Gradient Descent of Logistic Regression is different from that of Liear regression Hypothesis (i.e., $\large h_\theta (x) = \theta_1 * x + \theta_0$, where $\large \theta_0$ is generally taken as `1`)
