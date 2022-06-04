@@ -1,6 +1,9 @@
 # Logistic Regression
 <strong><a href = "https://www.youtube.com/watch?v=t1IT5hZfS48&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=33">Reference Videos 6.1 to 6.7</a></strong>
 
+<strong><a href = "https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148">Reference Blog</a></strong>
+
+
 <br>
 
 ## Contents:
@@ -35,9 +38,11 @@ y = 0 :=> $\theta^Tx < 0$
 ### Cost in Logistic Regression and Gradient Descent
 ![image](https://user-images.githubusercontent.com/76818035/172019061-f061a4c9-8d3b-4f14-8707-c52678063963.png)
 
-  NOTE: The equation for gradient descent in Logistic regression looks IDENTICAL to that of linear regression !!! But there is a difference:
+- NOTE: The equation for gradient descent in Logistic regression looks IDENTICAL to that of linear regression !!! But there is a difference:
   
-The <a href = "#logistic-regression-hypothesis-function"> HYPOTHESIS </a> of Gradient Descent of Logistic Regression is different from that of Liear regression Hypothesis (i.e., $\large h_\theta (x) = \theta_1 * x + \theta_0$, where $\large \theta_0$ is generally taken as `1`)
+- The <a href = "#logistic-regression-hypothesis-function"> HYPOTHESIS </a> of Gradient Descent of Logistic Regression is different from that of Liear regression Hypothesis (i.e., $\large h_\theta (x) = \theta_1 * x + \theta_0$, where $\large \theta_0$ is generally taken as `1`)
+
+- This function is also known as <strong>Sigmoid Function</strong> or <strong> Logistic Function </strong>
 
 
 <hr> <br><br>
