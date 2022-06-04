@@ -12,3 +12,10 @@ y = 0 :=> $\theta^Tx < 0$
 
 ### Example
 ![image](https://user-images.githubusercontent.com/76818035/172016831-7ce94fa5-724f-460d-ba5e-932ed5208676.png)
+
+<hr>
+
+<br><br>
+
+### Cost in Logistic Regression
+$$Cost(h_\theta x, y) = -y*log(h_\theta (x)) - (1-y)*log(1 - h_\theta (x))$$
