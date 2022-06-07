@@ -26,11 +26,11 @@ In this formula, $\Huge \lambda$ refers to `Regularization Parameter`.
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/76818035/172409978-df3cb791-a81c-4f70-8a7e-9a179e2de71d.png" height=300></p>
 
-Thus, for very large value of $\Large \lambda$, we almost neglect the effect of panalyzed parameters which may <br>
+Thus, for very large value of $\Large \lambda$, we almost neglect the effect of panalized parameters which may <br>
 lead to Underfitting Model predictions.
 <hr>
 
-<strong> 👉 We Don't panalyze $\Huge \theta_0$ by convention. Though, even if it is panalyzed, it puts negligibly small effect on the trained model </strong>
+<strong> 👉 We Don't panalize $\Huge \theta_0$ by convention. Though, even if it is panalized, it puts negligibly small effect on the trained model </strong>
 
 <hr>
 <br><br>
