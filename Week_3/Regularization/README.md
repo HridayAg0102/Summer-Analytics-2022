@@ -2,6 +2,7 @@
 Reference Links:
 - [Videos 7.1 to 7.4](https://youtu.be/u73PU6Qwl1I)
 
+<hr>
 
 ### Ways to Address Overfitting:
 1. Reduce Number of Features.
@@ -65,3 +66,11 @@ lead to Underfitting Model predictions.
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172439449-53c06f77-f2bd-4dc8-940e-2614ef9e6ea5.png" height=400></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172443253-5dfcdd30-43c9-43f7-bdac-033814cbb14f.png" height=400></p>
 
+### Examples of Regularization:
+- K-means: Restricting the segments for avoiding redundant groups.
+- Neural networks: Confining the complexity (weights) of a model.
+- Random Forest: Reducing the depth of tree and branches (new features)
+
+<hr>
+
+#  ⏭️ [L1 and L2 Regularization](./L1_and_L2_regularization.md) {Part 2 of these notes. are present at this link.}
