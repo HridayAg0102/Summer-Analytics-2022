@@ -19,4 +19,9 @@ miniize the value of <strong>J($\theta$)</strong>, we get the effect of those pa
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172408291-cd0d6891-7a75-4427-abc4-3205742c9265.png" height=100></p>
 
 <br>
-In this formula, $\Large \lambda$ refers to `Regularization Parameter`
+
+In this formula, $\Huge \lambda$ refers to `Regularization Parameter`.
+
+### What Happens when we choose Extremely High value of Lambda ?
+
+<p align="center"><img src = "https://user-images.githubusercontent.com/76818035/172409978-df3cb791-a81c-4f70-8a7e-9a179e2de71d.png" height=300></p>
