@@ -25,3 +25,27 @@ In this formula, $\Huge \lambda$ refers to `Regularization Parameter`.
 ### What Happens when we choose Extremely High value of Lambda ?
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/76818035/172409978-df3cb791-a81c-4f70-8a7e-9a179e2de71d.png" height=300></p>
+
+Thus, for very large value of $\Large \lambda$, we almost neglect the effect of panalyzed parameters which may <br>
+lead to Underfitting Model predictions.
+<hr>
+
+<strong> We Don't panalyze $\Huge \theta_0$ by convention. Though, even if it is panalyzed, it puts negligibly small effect on the trained model </strong>
+
+<hr>
+
+## Regularization in Linear Regression
+
+### 1. In Gradient Descent
+
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172419509-986bcc7e-2380-4ec6-b6f9-9704e32f6b18.png" height=230></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172422684-9e8903a1-989e-4e1a-abec-4951f8e49ccc.png" height=60></p>
+<br><br>
+
+<p align="center">The Term $\Huge \left( 1-\alpha\frac{\lambda}{m} \right)$ < 1 </p>
+
+    
+### 2. In Normal Equation Method
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172427720-2b693a83-8673-4d97-a374-b516572193f0.png" height=200></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172429226-f8bfd48f-9205-4faa-9b00-9bd6a213d683.png" height=400></p>
