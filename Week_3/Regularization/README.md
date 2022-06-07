@@ -30,11 +30,12 @@ Thus, for very large value of $\Large \lambda$, we almost neglect the effect of 
 lead to Underfitting Model predictions.
 <hr>
 
-<strong> We Don't panalyze $\Huge \theta_0$ by convention. Though, even if it is panalyzed, it puts negligibly small effect on the trained model </strong>
+<strong> 👉 We Don't panalyze $\Huge \theta_0$ by convention. Though, even if it is panalyzed, it puts negligibly small effect on the trained model </strong>
 
 <hr>
+<br><br>
 
-## Regularization in Linear Regression
+## ▶️ Regularization in Linear Regression
 
 ### 1. In Gradient Descent
 
@@ -49,3 +50,18 @@ lead to Underfitting Model predictions.
 ### 2. In Normal Equation Method
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172427720-2b693a83-8673-4d97-a374-b516572193f0.png" height=200></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172429226-f8bfd48f-9205-4faa-9b00-9bd6a213d683.png" height=400></p>
+
+<br><br>
+
+### :star: Problem of Non Invertibility in Normal Equation Method (Doesn't occur while using Regularization)
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172431435-b1651c9c-432f-447c-b877-673025fcbf0f.png" height=400></p>
+
+<hr>
+
+<br><br>
+
+## ▶️ Regularization in Logistic Regression
+
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172439449-53c06f77-f2bd-4dc8-940e-2614ef9e6ea5.png" height=400></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/76818035/172443253-5dfcdd30-43c9-43f7-bdac-033814cbb14f.png" height=400></p>
+
