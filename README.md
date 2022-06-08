@@ -32,8 +32,10 @@ Ans: For increasing the complexity of model, or to increase the effects of param
 Those are inserted in the model as : <br>
 $X_0$,  <br> $X_1$, <br>   $X_2 = X_0^2$,  <br>   $X_3 = X_1^4$ <br>   etc.
 
-So, the new hypothesis may actually represent something like:
+So, the new hypothesis may actually represent something like: <br>
 
-$$H(\theta) = \theta_0 + \theta_1*X_1 + \theta_2*X_2 + \theta_3*X_3$$
-$$\implies H(\theta) = \theta_0 + \theta_1*X_1 + \theta_2*X_0^2 + \theta_3*X_1^4$$
+
+$H(\theta) = \theta_0 + \theta_1*X_1 + \theta_2*X_2 + \theta_3*X_3$
+
+$=> H(\theta) = \theta_0 + \theta_1*X_1 + \theta_2*X_0^2 + \theta_3*X_1^4$
 
