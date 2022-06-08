@@ -10,4 +10,8 @@ but it is the calculation of the loss function that includes these regularisatio
 <br><br>
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172478609-91be4d82-6c28-4cfe-925f-9833de9b4fc5.png" height=550px></p>
 
-## It is possible to combine L1 and L2 regularization, which is also known as Elastc Regularization.
+<hr>
+<br>
+
+## It is possible to combine L1 and L2 regularization, which is also known as Elastc Net Regularization.
+Link for further reading: [LINK](https://qr.ae/pvFQPt)
