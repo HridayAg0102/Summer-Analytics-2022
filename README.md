@@ -34,8 +34,6 @@ $X_0$,  <br> $X_1$, <br>   $X_2 = X_0^2$,  <br>   $X_3 = X_1^4$ <br>   etc.
 
 So, the new hypothesis may actually represent something like: <br>
 
+![image](https://user-images.githubusercontent.com/76818035/172721718-9680bc9c-2a13-48ab-ae24-3c88fd31d581.png)
 
-$H(\theta) = \theta_0 + \theta_1*X_1 + \theta_2*X_2 + \theta_3*X_3$
-
-$=> H(\theta) = \theta_0 + \theta_1*X_1 + \theta_2*X_0^2 + \theta_3*X_1^4$
 
