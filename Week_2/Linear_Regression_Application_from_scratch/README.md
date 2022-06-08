@@ -10,8 +10,8 @@ It will remain unchanged, since at local minima: Del (j) / Del (Theta 1) will be
 hence, the assignment would be like 
 
 		
-		Theta_1 := Theta_1 + Del (j) / Del (Theta 1)
-		=> Theta_1 := Theta_1 + 0
+		Theta_1 := Theta_1 - alpha * Del (j) / Del (Theta 1)
+		=> Theta_1 := Theta_1 - 0
 		Hence, no change...
 
 <br>
