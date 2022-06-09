@@ -1,9 +1,17 @@
 # Support Vector Machines
 
+```
+NOTE for ipynb notebook
+The limitation of SVC is compensated by SVM non-linearly. 
+And that's the difference between SVM and SVC. 
+If the hyperplane classifies the dataset linearly then the algorithm we call it as SVC 
+and the algorithm that separates the dataset by non-linear approach then we call it as SVM.
+```
+
 <strong> Reference Links </strong>
 
 - [Codebasics Video](https://www.youtube.com/watch?v=FB5EdxAGxQg)
-- 
+- [Article](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
 
 <br>
 <hr>
@@ -57,3 +65,24 @@ It refers to the consideration of number of datapoints in deciding the decision 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/76818035/172897366-e434c319-f661-485a-b1de-d2be3a55f13d.png" height=500></p>
 
+```
+The SVM kernel is a function that takes low dimensional input space and transforms it to a higher dimensional space i.e.
+it converts not separable problem to separable problem.
+```
+
+## Pros and Cons of using SVMs
+
+
+Pros:
+
+- It works really well with a clear margin of separation
+- It is effective in high dimensional spaces.
+- It is effective in cases where the number of dimensions is greater than the number of samples.
+- It uses a subset of training points in the decision function (called support vectors), so it is also memory efficient.
+
+Cons:
+
+- It doesn’t perform well when we have large data set because the required training time is higher
+- It also doesn’t perform very well, when the data set has more noise i.e. target classes are overlapping
+- SVM doesn’t directly provide probability estimates, these are calculated using an expensive five-fold cross-validation. It is included in the related
+SVC method of Python scikit-learn library.
