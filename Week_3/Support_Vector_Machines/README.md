@@ -37,7 +37,7 @@ It refers to the consideration of number of datapoints in deciding the decision 
 
 ## Regularization
 
-**Regularization parameter is also represented as `C` in scikit-learn**
+**Regularization parameter is also represented as `C` in scikit-learn** <br>
 <strong> Read from [Regularization Notes](../Regularization) </strong>
   
 <br>
