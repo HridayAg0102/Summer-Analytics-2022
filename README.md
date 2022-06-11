@@ -36,4 +36,14 @@ So, the new hypothesis may actually represent something like: <br>
 
 ![image](https://user-images.githubusercontent.com/76818035/172721718-9680bc9c-2a13-48ab-ae24-3c88fd31d581.png)
 
+<hr>
+
+6. When should we use `.predict()` and `.predict_proba()` in Scikit-learn? <br>
+Ans: 
+- predict_proba will give out the probabilities while predict will give the class value.
+- Class value can be used wherever the evaluation metric is accuracy, recall, precision etc
+- Whereas probabilities can be used wherever the evaluation metric is AUC, ROC_AUC, MSE, MAE, RMSE etc
+
+
+
 
