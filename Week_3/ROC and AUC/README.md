@@ -29,8 +29,6 @@ but often, replacing Precision with FPR gives better results.
 <br>
 <hr>
 
-<p align = 'center'><img src="https://user-images.githubusercontent.com/76818035/173202593-f849290a-ced1-4425-89fb-8ddf3521a713.png" height = 200px></p>
-
 
 **Area Under the Curve (AUC):** It represents the area under the ROC curves of different options of classification methods to apply to get idea which one is better.
 Greater the Area, the better is the model's functioning.
