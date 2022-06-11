@@ -16,3 +16,7 @@ and this is where ROC helps.
 Greater the Area, the better is the model's functioning.
 
 ### LEARN MORE ABOUT THEM BY WATCHING THE ABOVE VIDEO AND READING THE BLOG
+
+<div style = 'font-size:25px'>
+Note that with Roc and Auc curve method, we use <b>predict_proba()</b> instea of <b>predict()</b>. Read more about these here: <a href="https://discuss.analyticsvidhya.com/t/what-is-the-difference-between-predict-and-predict-proba/67376">LINK</a>
+</div>
