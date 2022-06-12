@@ -8,3 +8,4 @@ Have a read of this article for various evaluation techniques => [LINK](https://
 Read this article in Mozilla Firefox in Reading mode (distorted site.)
 ```
 
+![image](https://user-images.githubusercontent.com/76818035/173253461-e0caa5e1-5137-4216-8980-779778f2ab48.png)
