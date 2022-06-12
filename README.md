@@ -44,6 +44,13 @@ Ans:
 - Class value can be used wherever the evaluation metric is accuracy, recall, precision etc
 - Whereas probabilities can be used wherever the evaluation metric is AUC, ROC_AUC, MSE, MAE, RMSE etc
 
+<hr>
 
-
-
+7. Is Logistic Regression Classification Based algorithm or Regression based algorithm? <br>
+Ans: 
+- It is a classification type algorithm.
+- The name regression is there due to the similar underlying technique of Linear regression applied in it.
+```
+Note: We cannot use the evealuation metrics of classification based algorithms on Regression based algorithms.
+```
+> READ MORE [HERE](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_3/Various%20Evaluation%20Metrics/README.md) 
