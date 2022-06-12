@@ -38,10 +38,12 @@ Read this article in Mozilla Firefox in Reading mode (distorted site.)
 
 # A BIG NOTE !!!
 
-```md
+```
 Logistic Regression falls under CLASSIFICATION BASED ALGORITHMS. 
 Thus, we will apply only Classification based metrics on this.
 
 It is called Logistic REGRESSION just because its underlying technique 
 is quite similar to Linear regression
 ```
+
+READ MORE ABOUT CLASSIFICATON AND REGRESSION TYPE ALGORITHMS: [LINK](https://www.simplilearn.com/regression-vs-classification-in-machine-learning-article)
