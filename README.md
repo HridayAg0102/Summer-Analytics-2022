@@ -61,3 +61,22 @@ Ans:
 Note: We cannot use the evealuation metrics of classification based algorithms on Regression based algorithms.
 ```
 > READ MORE [HERE](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_3/Various%20Evaluation%20Metrics/README.md) 
+
+<hr>
+
+8. Cross Validation being an evaluation metric ought to be applied upon `Test Dataset`, then why it is applied on `Train Dataset` ? <br>
+Ans. **IT IS NOT AN EVALUATION METRIC** ⚠️
+<br> <br>
+
+  Cross validation is used to verify the best parameters on which the model is trained. 
+  ![image](https://user-images.githubusercontent.com/76818035/173404604-ad9ed244-605a-4a09-b52d-5d97f2453765.png)
+  
+  The diagram shows the position where cross validation is used, while, `evaluation metrics` are used in final evaluation,<br>
+  and hence applied on `TEST DATASET`.
+  
+  Cross-validation is a technique for validating the model efficiency by training it on the subset of input data and testing on previously unseen subset of the input data. We can also say that it is a technique to check how a statistical model generalizes to an independent dataset.
+  
+  Here, `input data` is the `Training Data`, not complete dataset
+  (The logic is that we use train test split to get our test data, but in real world situation, only Train data is given to the model;
+  hence, we consider input data as Train data.)
+
