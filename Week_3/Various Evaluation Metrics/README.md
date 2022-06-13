@@ -24,6 +24,7 @@ Read this article in Mozilla Firefox in Reading mode (distorted site.)
 - Precision at k (P@k)
 - Average precision at k (AP@k)
 - Mean average precision at k (MAP@k)
+- **Cross Validation Score** (important)
 
 ### Evaluation Metrics for Regression
 - Mean absolute error (MAE)
