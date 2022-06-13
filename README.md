@@ -1,6 +1,13 @@
 # Summer-Analytics-2022 course
 [Link to the course](https://iitg.ac.in/sa/caciitg/sa22/course/)
 
+```
+Some Tools and Technologies for ML model:
+1. for creating UI of model - Gradio
+2. for hosting ML model - Higging Faces
+and many more .... still dicovering :)
+```
+
 # Some Questions I came across the course:
 
 1. In Pandas dataframe, why we use `df[exp1 |/& exp2]` instead of `df[exp1 or/and exp2]`? <br>
