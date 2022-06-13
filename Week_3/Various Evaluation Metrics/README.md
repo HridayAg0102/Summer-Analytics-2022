@@ -46,4 +46,4 @@ It is called Logistic REGRESSION just because its underlying technique
 is quite similar to Linear regression
 ```
 
-READ MORE ABOUT CLASSIFICATON AND REGRESSION TYPE ALGORITHMS: [LINK](https://www.simplilearn.com/regression-vs-classification-in-machine-learning-article)
+READ MORE ABOUT CLASSIFICATON AND REGRESSION TYPE ALGORITHMS: [LINK](https://www.javatpoint.com/regression-vs-classification-in-machine-learning)
