@@ -4,7 +4,7 @@
 ```
 Some Tools and Technologies for ML model:
 1. for creating UI of model - Gradio
-2. for hosting ML model - Higging Faces
+2. for hosting ML model - Higging Faces (majorly used for NLP, but can be used here... read more on its website)
 and many more .... still dicovering :)
 ```
 
