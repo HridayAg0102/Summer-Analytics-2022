@@ -80,3 +80,9 @@ Ans. **IT IS NOT AN EVALUATION METRIC** ⚠️
   (The logic is that we use train test split to get our test data, but in real world situation, only Train data is given to the model;
   hence, we consider input data as Train data.)
 
+<hr>
+
+9. Why should we use SCIKIT-LEARN's `fit_transform()` method on `Training Dataset` and `transform()` on `Test Dataset` ? <br>
+ANS:
+This methodology performs the same actions on Test data automatically which were applied on Train Dataset.
+Reference [LINK to watch in complete detail](https://youtu.be/6as06vtXNL8)
