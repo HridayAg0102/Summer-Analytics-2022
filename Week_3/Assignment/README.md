@@ -1,10 +1,7 @@
 # Assignment Week 3: Some points to note
-
-1. I have mentioned Names and Passenger ID like columns to `Categorical Columns`, which actually donnot belong there.<br>
-  My predictions weren't affected since I had dropped all columns with unique features greater than 25 later in the notebook.
   
-2. For getting `X_train and X_test` devoid of `target column: transported`, and getting it assigned to `y_train and y_test`,<br>
-   we need `NOT` to do this 👇
+For getting `X_train and X_test` devoid of `target column: transported`, and getting it assigned to `y_train and y_test`,<br>
+we need `NOT` to do this 👇
    
 ```py
    
