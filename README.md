@@ -82,6 +82,8 @@ Ans. **IT IS NOT AN EVALUATION METRIC** ⚠️
 
 <hr>
 
+<br>
+
 9. Why should we use SCIKIT-LEARN's `fit_transform()` method on `Training Dataset` and `transform()` on `Test Dataset` ? <br>
 ANS:
 This methodology performs the same actions on Test data automatically which were applied on Train Dataset.
