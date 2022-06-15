@@ -21,7 +21,7 @@
 3. Create a stump from all the features present in the dataset and then calculate the `GINI INDEX` for all of them.
 4. The stump with the `Lowest Gini Index` becomes our `First Stump`.
 5. Now we need to determine the Amount of say this stump has in the final classification. For this we use the below mentioned formula <br> 
-$$\Huge \text{Amount of say} = \frac{1}{2}log(\frac{1 - \text{Total Error}}{\text{Total Error}})$$
+$$\Huge \boxed{\text{Amount of say} = \frac{1}{2}log(\frac{1 - \text{Total Error}}{\text{Total Error}})}$$
 6. Since all weights add upto 1, the Total Error remains `between 0 and 1`.
 7. The amount of say for a less erronious will be a relatively `large positive value`, while the erroniois one will have large `negative value`.
 <p align = 'center'><img src = "https://user-images.githubusercontent.com/76818035/173914766-37e73a26-4c3e-4b8a-b3ba-60488635536b.png" height=450px></p> 
