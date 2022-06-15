@@ -2,8 +2,8 @@
 
 Sequence to Go with:
 1. Decision Trees
-2. Adaboost
-3. Gradient Boosting
+2. Adaboost (optional)
+3. Gradient Boosting and Grid Search CV
 4. XGBoosting
 
 ### Note:
