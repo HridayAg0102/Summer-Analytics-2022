@@ -8,4 +8,5 @@ Sequence to Go with:
 
 ### Note:
 1. The Adaboost was not covered in the course content but is necessary to understand Gradient Boosting.
-2. The Kaggle Course for this week is found here ---> [LINK](https://www.kaggle.com/learn/intro-to-machine-learning)
+2. The Kaggle Course 1 for this week is found here ---> [Intro TO Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+3. The Kaggle Course 2 for this week is found here ---> [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
