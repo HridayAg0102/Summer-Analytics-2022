@@ -109,3 +109,8 @@ ANS:
 ANS:
 - For quick data cleaning and EDA, it makes a lot of sense to use pandas get dummies. However, if I plan to transform a categorical column to multiple binary columns for machine learning, it’s better to use OneHotEncoder().
 - [READ THIS COMPLETE ARTICLE FOR FULL DETAILS](https://albertum.medium.com/preprocessing-onehotencoder-vs-pandas-get-dummies-3de1f3d77dcc)
+
+<hr>
+
+12. What is a `Meta - Estimator`? <br>
+Ans: Meta Estimator: An estimator which takes another estimator as a parameter.
