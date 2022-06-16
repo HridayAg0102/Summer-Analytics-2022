@@ -102,3 +102,10 @@ Reference [LINK to watch in complete detail](https://youtu.be/6as06vtXNL8)
 ANS:
 - Categorical Data: Anything which can be used to categorize data into something. It can be of any datatype, though `floats and ints` are not frequently used.
 - Continuous Data: Data with no discrete boundaries. generally `datatype = Float` is used here.
+
+<hr>
+
+11. What is the difference between the 2 methods of OneHotEncoding: `pd.get_dummies()` and `Scikit-learn's OneHotEncoder()`?
+ANS:
+- For quick data cleaning and EDA, it makes a lot of sense to use pandas get dummies. However, if I plan to transform a categorical column to multiple binary columns for machine learning, it’s better to use OneHotEncoder().
+- [READ THIS COMPLETE ARTICLE FOR FULL DETAILS](https://albertum.medium.com/preprocessing-onehotencoder-vs-pandas-get-dummies-3de1f3d77dcc)
