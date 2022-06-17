@@ -132,5 +132,10 @@ ANS:
 ![image](https://user-images.githubusercontent.com/76818035/174331715-8288572a-8715-4929-9279-42066632a630.png)
 
 
+<br>
+<hr>
+
+15. What is the meaning of `Cardinality`? <br>
+ANS: "Cardinality" means the number of unique values in a column.
 
 
