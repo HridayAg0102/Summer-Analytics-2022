@@ -15,3 +15,6 @@ Sequence to Go with:
 1. Shortcut for seperating the columns out:
 
 ![image](https://user-images.githubusercontent.com/76818035/174341828-b8813a60-52a9-4bf6-b1e5-51d4b3fde9a5.png)
+
+2. Selecting all columns apart from columns with specific datatype :
+![image](https://user-images.githubusercontent.com/76818035/174343254-3a73f02a-c317-4b16-b254-ce6b87a767de.png)
