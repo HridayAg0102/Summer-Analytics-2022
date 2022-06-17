@@ -122,5 +122,15 @@ ANS:
 - `Feature Importance`: Feature Importance refers to techniques that calculate a score for all the input features for a given model — the scores simply represent the “importance” of each feature. A higher score means that the specific feature will have a larger effect on the model that is being used to predict a certain variable.
 - `Permutation Feature Importance`: Permutation feature importance is a model inspection technique that can be used for any fitted estimator when the data is tabular. This is especially useful for non-linear or opaque estimators. The permutation feature importance is defined to be the decrease in a model score when a single feature value is randomly shuffled. This procedure breaks the relationship between the feature and the target, thus the drop in the model score is indicative of how much the model depends on the feature. This technique benefits from being model agnostic and can be calculated many times with different permutations of the feature.
 
+<hr>
+
+14. Why do we need to use `fit_transform()` with SimpleImputer rather than `fit()` alone?
+ANS: 
+- when converting to dataframe, we need a 2D array,
+- The fit() method returns an Object with parameters stored, rather than the transformed Dataset
+- While, `fit_transform()` apply all the transformations and return the 2D array which can be converted to DataFrame.
+![image](https://user-images.githubusercontent.com/76818035/174331715-8288572a-8715-4929-9279-42066632a630.png)
+
+
 
 
