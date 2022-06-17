@@ -114,3 +114,13 @@ ANS:
 
 12. What is a `Meta - Estimator`? <br>
 Ans: Meta Estimator: An estimator which takes another estimator as a parameter.
+
+<hr>
+
+13. What are `Feature importances` and `Permutation Feature Importances`?<br>
+ANS:
+- `Feature Importance`: Feature Importance refers to techniques that calculate a score for all the input features for a given model — the scores simply represent the “importance” of each feature. A higher score means that the specific feature will have a larger effect on the model that is being used to predict a certain variable.
+- `Permutation Feature Importance`: Permutation feature importance is a model inspection technique that can be used for any fitted estimator when the data is tabular. This is especially useful for non-linear or opaque estimators. The permutation feature importance is defined to be the decrease in a model score when a single feature value is randomly shuffled. This procedure breaks the relationship between the feature and the target, thus the drop in the model score is indicative of how much the model depends on the feature. This technique benefits from being model agnostic and can be calculated many times with different permutations of the feature.
+
+
+
