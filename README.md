@@ -138,4 +138,9 @@ ANS:
 15. What is the meaning of `Cardinality`? <br>
 ANS: "Cardinality" means the number of unique values in a column.
 
+<hr>
+
+16. What do you mean by `Ensemble` (For Eg., as we do from sklearn.ensemble import RandomForestRegressor)?
+ANS: ensemble methods combine the predictions of several models (e.g., several trees, in the case of random forests).
+
 
