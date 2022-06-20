@@ -129,6 +129,7 @@ ANS:
 - when converting to dataframe, we need a 2D array,
 - The fit() method returns an Object with parameters stored, rather than the transformed Dataset
 - While, `fit_transform()` apply all the transformations and return the 2D array which can be converted to DataFrame.
+
 ![image](https://user-images.githubusercontent.com/76818035/174331715-8288572a-8715-4929-9279-42066632a630.png)
 
 
