@@ -43,9 +43,10 @@ It refers to the consideration of number of datapoints in deciding the decision 
 <br>
 <hr>
 
-## Regularization
+## Inverse Regularization
 
-**Regularization parameter is also represented as `C` in scikit-learn** <br>
+**`INVERSE` Regularization parameter is also represented as `C` in scikit-learn** <br>
+![image](https://user-images.githubusercontent.com/76818035/174887926-0fe6dc43-273e-47c2-b6f9-05fa29bdec2d.png)
 <strong> Read from [Regularization Notes](../Regularization) </strong>
   
 <br>
