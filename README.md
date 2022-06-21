@@ -9,6 +9,9 @@ Some Tools and Technologies for ML model:
 and many more .... still dicovering :)
 ```
 
+# Must Go Through Kaggle Course (for revision : part of Week 4): [LINK](https://www.kaggle.com/learn/intermediate-machine-learning)
+
+
 # Some Questions I came across the course:
 
 1. In Pandas dataframe, why we use `df[exp1 '|' or '&' exp2]` instead of `df[exp1 'or' or 'and' exp2]`? <br>
