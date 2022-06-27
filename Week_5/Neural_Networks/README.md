@@ -72,7 +72,38 @@ the model's performance
 
 ### - Gradient Computation
 
+![image](https://user-images.githubusercontent.com/76818035/176029557-e479c239-b286-4299-956e-dbe7cf0a3bc3.png)
 
+```
+To minimize the cost function, we can use Gradient Decent and some other advanced techniques.
+
+Gradient decent needs Cost function, and Derivative of Cost function as inputs.
+
+Lecture 9.2 focusses more on computation of derivative part, since cost function is already known to us
+```
+
+![image](https://user-images.githubusercontent.com/76818035/176023718-269339c0-f187-49be-aab4-084416256f11.png)
+![image](https://user-images.githubusercontent.com/76818035/176025500-a55bc72a-aee4-4f0e-9a48-958c65715948.png)
+![image](https://user-images.githubusercontent.com/76818035/176029685-2b16fadd-8493-46ea-bd96-28af1caa16f6.png)
+
+<br><br>
+- $\Huge \triangle_{ij}$ are used to compute $\Huge \frac{\partial}{\partial \Theta^{(l)}_{ij}} \mathtt{J} \Theta$, <br>
+  they are the cumulators which are going to slowly add things in order to compute $\Huge J(\Theta)$
+
+- $\Huge \mathtt{D_{i,j}}$ represents the derivative : $\Huge \frac{\partial}{\partial \Theta^{(l)}_{ij}} \mathtt{J}(\Theta)$ , 
+  (AS HIGHLIGHTED IN IMAGE ABOVE)$
+  
+- This part represents the vectorized format of computation: 
+  <p align = 'center'> <img src = 'https://user-images.githubusercontent.com/76818035/176031687-bd8106a8-ac08-486f-bb26-181f9adacd46.png' height = 50px></p>
+  
+  Here `T` represents `Transpose` of the vector. (required for element wise multiplication [see matrix multiplication rules])
+  
+  
+<br><br><hr><hr>
+
+========================================================================================
+# 🌟 [CONTINUED IN Notes_Part_2.md](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_5/Neural_Networks/Notes_Part_2.md)
+========================================================================================
 
 
 
