@@ -9,3 +9,7 @@ First understand the intuition behind Forward Propagation
 ```
 
 ![image](https://user-images.githubusercontent.com/76818035/176033991-f14e4d8d-fd58-4968-afab-58b089811a70.png)
+
+## Correction:
+
+- the notations $\Huge \Theta_{10}, \Theta_{11}, \Theta_{12}$ must be $\Huge \Theta_{20}, \Theta_{21}, \Theta_{22}$
