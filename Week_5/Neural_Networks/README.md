@@ -60,6 +60,9 @@ The Multiclass Classification is just a n extension of One-Vs-All Classification
 ![image](https://user-images.githubusercontent.com/76818035/175986815-8ef99151-4714-4d37-bf2b-04ea750b6751.png)
 
 ```
+Here, 
+    K => Number of Output units
+    lambda => Regularization parameter
 
 We generally don't regularize bias terms, 
 
@@ -97,6 +100,8 @@ Lecture 9.2 focusses more on computation of derivative part, since cost function
   <p align = 'center'> <img src = 'https://user-images.githubusercontent.com/76818035/176031687-bd8106a8-ac08-486f-bb26-181f9adacd46.png' height = 50px></p>
   
   Here `T` represents `Transpose` of the vector. (required for element wise multiplication [see matrix multiplication rules])
+
+- The index `i` denotes the `current layer`, and index `j` denotes the `previous layer`.
   
   
 <br><br><hr><hr>
