@@ -12,4 +12,24 @@ First understand the intuition behind Forward Propagation
 
 ## Correction:
 
-- the notations $\Huge \Theta_{10}, \Theta_{11}, \Theta_{12}$ must be $\Huge \Theta_{20}, \Theta_{21}, \Theta_{22}$
+- the notations $\Huge \Theta_{10}, \Theta_{11}, \Theta_{12}$  must be  $\Huge \Theta_{20}, \Theta_{21}, \Theta_{22}$
+
+```py
+NOTE
+
+K => Number of output units
+m => Number of training examples
+```
+
+![image](https://user-images.githubusercontent.com/76818035/176225995-e8cbc0ae-953e-405a-b82e-adef7bc3f872.png)
+
+```
+.
+
+
+Here, there is only 1 OUTPUT UNIT so, K = 1 
+Also, Regularization term is ignored, and only single training example is considered
+Hence, m = 1
+
+.
+```
