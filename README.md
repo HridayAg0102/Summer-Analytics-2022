@@ -144,7 +144,12 @@ ANS: "Cardinality" means the number of unique values in a column.
 
 <hr>
 
-16. What do you mean by `Ensemble` (For Eg., as we do from sklearn.ensemble import RandomForestRegressor)?
+16. What do you mean by `Ensemble` (For Eg., as we do from sklearn.ensemble import RandomForestRegressor)? <br>
 ANS: ensemble methods combine the predictions of several models (e.g., several trees, in the case of random forests).
+
+<hr>
+
+17. How to choose the number of layers in a neural network? <br>
+ANS: Read this answer : [Read first and 2nd answer](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
 
 
