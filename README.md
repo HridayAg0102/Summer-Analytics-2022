@@ -157,4 +157,17 @@ ANS: ensemble methods combine the predictions of several models (e.g., several t
 18. How to choose the number of layers in a neural network? <br>
 ANS: Read this answer : [Read first and 2nd answer](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
 
+<hr>
+
+19. What is the importance of Mean Normalization in Gradient Descent, or how does normalizaion make Gradient Descent converge faster? <br>
+ANS: [READ THIS ANSWER](https://qr.ae/pvoFdP)
+
+<hr>
+
+20. Which Machine Learning Algorithms need Feature Scaling or Normalization? <br>
+ANS: [READ THIS ARTICLE](http://theprofessionalspoint.blogspot.com/2019/02/which-machine-learning-algorithms.html)
+The algorithms which consider distances between the datapoints usually require feature scaling or normalization.
+
+
+
 
