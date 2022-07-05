@@ -139,7 +139,7 @@ ANS:
 <br>
 <hr>
 
-14. What is the difference between `SVM` and `SVC`? <br>
+15. What is the difference between `SVM` and `SVC`? <br>
 ANS: The limitation of SVC is compensated by SVM non-linearly. And that's the difference between SVM and SVC. If the hyperplane classifies the dataset linearly then the algorithm we call it as SVC and the algorithm that separates the dataset by non-linear approach then we call it as SVM.
 
 <hr>
