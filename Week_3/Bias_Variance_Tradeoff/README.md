@@ -39,3 +39,6 @@ Generally, You can see a general trend in the examples above:
 
 - **Linear machine learning algorithms** often have a high bias but a low variance. Example:Linear Regression, Logistic Regression <br>
 - **Nonlinear machine learning algorithms** often have a low bias but a high variance. Example: Decision Tree, SVM, Neural Networks
+
+**NOTE:**
+Increasing the datapoints in Training set in Linear Regression leads to Low Variance, but a High Bias.
