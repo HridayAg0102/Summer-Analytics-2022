@@ -107,7 +107,7 @@ Lecture 9.2 focusses more on computation of derivative part, since cost function
 <br><br><hr><hr>
 
 ========================================================================================
-# 🌟 [CONTINUED IN Notes_Part_2.md](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_5/Neural_Networks/Notes_Part_2.md)
+# 🌟 [CONTINUED IN Notes_Part_2.md](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_5/Neural_Networks_theory/Notes_Part_2.md)
 ========================================================================================
 
 
