@@ -139,17 +139,22 @@ ANS:
 <br>
 <hr>
 
-15. What is the meaning of `Cardinality`? <br>
+14. What is the difference between `SVM` and `SVC`? <br>
+ANS: The limitation of SVC is compensated by SVM non-linearly. And that's the difference between SVM and SVC. If the hyperplane classifies the dataset linearly then the algorithm we call it as SVC and the algorithm that separates the dataset by non-linear approach then we call it as SVM.
+
+<hr>
+
+16. What is the meaning of `Cardinality`? <br>
 ANS: "Cardinality" means the number of unique values in a column.
 
 <hr>
 
-16. What do you mean by `Ensemble` (For Eg., as we do from sklearn.ensemble import RandomForestRegressor)? <br>
+17. What do you mean by `Ensemble` (For Eg., as we do from sklearn.ensemble import RandomForestRegressor)? <br>
 ANS: ensemble methods combine the predictions of several models (e.g., several trees, in the case of random forests).
 
 <hr>
 
-17. How to choose the number of layers in a neural network? <br>
+18. How to choose the number of layers in a neural network? <br>
 ANS: Read this answer : [Read first and 2nd answer](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
 
 
