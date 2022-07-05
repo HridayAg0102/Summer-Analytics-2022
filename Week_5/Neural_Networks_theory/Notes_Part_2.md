@@ -1,4 +1,4 @@
-# Notes Continued from [here](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_5/Neural_Networks/README.md)
+# Notes Continued from [here](https://github.com/HridayAg0102/Summer-Analytics-2022/blob/main/Week_5/Neural_Networks_theory/README.md)
 
 ## Backpropagation Intuition [video 9.3]
 
