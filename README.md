@@ -168,6 +168,14 @@ ANS: [READ THIS ANSWER](https://qr.ae/pvoFdP)
 ANS: [READ THIS ARTICLE](http://theprofessionalspoint.blogspot.com/2019/02/which-machine-learning-algorithms.html)
 The algorithms which consider distances between the datapoints usually require feature scaling or normalization.
 
+<hr>
 
+21. Are Neural Networks prone to Overfitting? <br>
+ANS: Certainly they can overfit the data, as other models do. No model is perfectly prone to overfitting:
+The reasons can be, excessive complexity of  its architecture (if we add many layers),  or the model has too many parameters.
+
+this overfitting problem is common to all the algorithms, infact, it is more common in case of Deep Learning algorithms as they are designed to understand (or memorize) more complex patterns.
+
+This article tells about the techniques by which we can prevent overfitting... and the fun thing is they are also same as those of classical Machine Learning. [READ THE ARTICLE HERE](https://www.kdnuggets.com/2019/12/5-techniques-prevent-overfitting-neural-networks.html)
 
 
