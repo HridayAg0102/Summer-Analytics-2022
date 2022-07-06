@@ -171,7 +171,9 @@ The algorithms which consider distances between the datapoints usually require f
 <hr>
 
 21. Are Neural Networks prone to Overfitting? <br>
-ANS: Certainly they can overfit the data, as other models do. No model is perfectly prone to overfitting:
+ANS: <br>
+
+Certainly they can overfit the data, as other models do. No model is perfectly prone to overfitting:
 The reasons can be, excessive complexity of  its architecture (if we add many layers),  or the model has too many parameters.
 
 this overfitting problem is common to all the algorithms, infact, it is more common in case of Deep Learning algorithms as they are designed to understand (or memorize) more complex patterns.
